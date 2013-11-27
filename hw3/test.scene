@@ -1,0 +1,7 @@
+# Test Scene - minimal
+size 640 480
+output test.png 
+camera 0 0 -4 0 0 0 0 1 0 45
+ambient 0 0 0.5
+sphere 0 0 0 1.5
+
